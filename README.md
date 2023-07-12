@@ -1,4 +1,4 @@
-[Hexlet CI](https://github.com/EugeneZubkov/hexlet-ci-app/actions/workflows/hexlet-ci.yml/badge.svg)
+![Hexlet CI](https://github.com/EugeneZubkov/hexlet-ci-app/actions/workflows/hexlet-ci.yml/badge.svg)
 
 # Example app for CI Hexlet course
 
